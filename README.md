@@ -1,119 +1,193 @@
 <div align="center">
 
-# 👋 Hi, I'm Andrino10
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=ANDRINO10&fontSize=58&fontColor=000000&fontAlignY=38&desc=Informatics%20Engineering%20%7C%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=twinkling&color=ffffff"/>
 
-### 💻 Informatics Engineering Student
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=000000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;Building+Ideas+into+Digital+Solutions+%F0%9F%92%BB;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Learning.+Building.+Improving.+%F0%9F%9A%80"/>
 
-I'm interested in Web Development, Artificial Intelligence,
-and building useful digital solutions.
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=Andrino10&label=Profile%20Views&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Andrino10&label=Profile%20Views&style=flat-square"/>
 
 </div>
 
-## 🧑‍💻 About Me
 
-🎓 Informatics Engineering Student
+## 👋 About Me
 
-💻 Web & Mobile Developer
+Hi, I'm **Andrino**.
 
-🤖 AI & Machine Learning Enthusiast
+I'm an Informatics Engineering student who enjoys building
+digital products and exploring modern technology.
 
-🧠 Interested in NLP, RAG & Information Retrieval
+My main interests are **Web Development, Mobile Development,
+Artificial Intelligence, Machine Learning, and Natural Language Processing**.
 
-🚀 Always learning and building new projects
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-</p>
-
-### Frameworks
-
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-</p>
-
-### Database & Tools
-
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
-
-### AI & Data
-
-<p>
-<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-</p>
-
-## 📊 GitHub Stats
+I believe good software is not only about writing code,
+but also about solving real problems.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Andrino10&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrino10&layout=compact&theme=tokyonight&hide_border=true"/>
+**Build with purpose. Learn continuously. Improve every day.**
 
 </div>
 
-## 🚀 My Projects
 
-### 🤖 SIGAP AI
+## 🧰 Tech Stack
 
-AI system for detecting workplace hazards using
-RAG, NLP, Sentence Transformers and FAISS.
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,php,html,css" />
+</p>
+
+### ⚛️ Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,flask,nodejs,reactnative,expo" />
+</p>
+
+### 🤖 AI & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-6D28D9?style=for-the-badge"/>
+</p>
+
+### 🗄️ Database & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,github,docker,postman,figma" />
+</p>
+
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🤖 SIGAP AI</h3>
+
+AI-powered workplace safety system designed to identify
+potential workplace hazards using intelligent information retrieval.
+
+<br>
 
 `Python` `NLP` `RAG` `FAISS`
 
-### 🛠️ SIGAP IT LIRIK
+</td>
 
-Web-based IT Helpdesk for handling ICT complaints
-and providing technical solutions.
+<td width="50%" valign="top">
+
+<h3>🛠️ SIGAP IT LIRIK</h3>
+
+Web-based IT Helpdesk system for handling ICT complaints
+and providing technical assistance.
+
+<br>
 
 `HTML` `CSS` `JavaScript` `Flask`
 
-### 📱 EduGuide
+</td>
 
-Mobile application for student academic guidance.
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>📱 EduGuide</h3>
+
+Mobile application designed to help students access
+academic information and guidance.
+
+<br>
 
 `React Native` `Expo` `JavaScript`
 
-## 🎯 Currently Learning
+</td>
 
-💡 Artificial Intelligence
+<td width="50%" valign="top">
 
-🤖 Machine Learning
+<h3>🏥 Smart Queue</h3>
 
-🔎 Natural Language Processing
+Web-based queue management system designed to improve
+clinic service and patient flow.
 
-🧠 Retrieval Augmented Generation
+<br>
 
-🌐 Web & Mobile Development
+`PHP` `MySQL` `JavaScript`
 
-## 📫 Connect With Me
+</td>
 
-<p>
-<a href="https://github.com/Andrino10">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+</tr>
+</table>
+
+
+## 🧠 Currently Exploring
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+<img src="https://skillicons.dev/icons?i=python,tensorflow,react,docker" />
+
+<br><br>
+
+**Artificial Intelligence**
+&nbsp;&nbsp; • &nbsp;&nbsp;
+**Machine Learning**
+&nbsp;&nbsp; • &nbsp;&nbsp;
+**NLP**
+&nbsp;&nbsp; • &nbsp;&nbsp;
+**RAG**
+&nbsp;&nbsp; • &nbsp;&nbsp;
+**Web Development**
+
+</div>
+
+
+## 💭 A Little Motivation
+
+<div align="center">
+
+<img src="https://wallpaperaccess.com/full/3030047.jpg" width="720"/>
+
+<br><br>
+
+### *“The man who moves a mountain begins by carrying away small stones.”*
+
+**― Confucius, _Confucius: The Analects_**
+
+<br>
+
+*Small steps. Consistent effort. Meaningful progress.*
+
+</div>
+
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Andrino10">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+**Thanks for visiting my profile.**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=twinkling&color=ffffff"/>
 
 </div>
