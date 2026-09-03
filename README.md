@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.png" width="100%" />
+  <img src="./assets/header.svg" width="100%" alt="ANDRINO10 Header">
 
 <br><br>
 
