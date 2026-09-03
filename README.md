@@ -1,14 +1,14 @@
 <div align="center">
 
-  <img src="./assets/header.svg" width="100%" />
+<img src="./assets/header.png" width="100%" />
 
-  <br>
+<br><br>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=000000&center=true&vCenter=true&width=850&lines=Building+Ideas+into+Digital+Solutions+%F0%9F%92%BB;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Developing+Web+%26+Information+Systems+%F0%9F%8C%90;Learning.+Building.+Improving.+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=000000&center=true&vCenter=true&width=850&lines=Building+Ideas+into+Digital+Solutions+%F0%9F%92%BB;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Developing+Web+%26+Information+Systems+%F0%9F%8C%90;Learning.+Building.+Improving.+%F0%9F%9A%80" />
 
-  <br><br>
+<br><br>
 
-  <img src="https://komarev.com/ghpvc/?username=Andrino10&label=PROFILE+VIEWS&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Andrino10&label=PROFILE+VIEWS&style=flat-square" />
 
 </div>
 ## 👋 About Me
